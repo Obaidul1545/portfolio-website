@@ -114,3 +114,14 @@ body {
     display: flex;
     padding: 50px;
 }
+
+.skill {
+    padding-left: 30px;
+    font-size: larger;
+}
+
+.contact {
+    display: flex;
+    margin: 10px;
+    padding: 30px;
+}
